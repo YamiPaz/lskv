@@ -22,3 +22,5 @@ npx sequelize model:generate --name Product --attributes name:string,description
 npx sequelize model:generate --name Image --attributes name:string,productId:integer
 
 npx sequelize model:generate --name Review --attributes name:string,description:string,mark:integer,product_id:integer
+
+![image](https://user-images.githubusercontent.com/81446679/143147468-7ae2228f-d152-4310-8dfb-07fcb28074b2.png)
