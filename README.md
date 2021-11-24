@@ -1,8 +1,11 @@
 # lskv
 
 Integrantes:
+
 Bardin, Ignacio
+
 Bulich, Yamila
+
 Lepez, Martin
 
 
